@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore .env files
+.env
+
+# Ignore models
+vgg16_model.pth
+fashion-mnist_train.csv
