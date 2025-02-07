@@ -10,3 +10,4 @@ node_modules/
 # Ignore models
 vgg16_model.pth
 fashion-mnist_train.csv
+fashion-mnist_train_60k.csv
